@@ -23,8 +23,12 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=ESergievich&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ESergievich&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ESergievich&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ESergievich&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
